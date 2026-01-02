@@ -79,10 +79,6 @@ trader-behavior-market-sentiment-analysis/
 ├── requirements.txt # Python dependencies
 └── .gitignore # Ignored files (datasets, caches)
 
-
----
-
-
 ---
 
 ## 🚀 How to Run the Project
