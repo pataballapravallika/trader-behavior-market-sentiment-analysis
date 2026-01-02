@@ -73,10 +73,10 @@ The goal is to uncover patterns in profitability, risk-taking, and trading activ
 ---
 trader-behavior-market-sentiment-analysis/
 │
-├── analysis.ipynb # Main analysis notebook
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└── .gitignore # Ignored files (datasets, caches)
+├── analysis.ipynb # Main analysis notebook/
+├── README.md # Project documentation/
+├── requirements.txt # Python dependencies/
+└── .gitignore # Ignored files (datasets, caches)/
 
 
 ---
