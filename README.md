@@ -70,7 +70,6 @@ The goal is to uncover patterns in profitability, risk-taking, and trading activ
 
 ## 📁 Repository Structure
 
----
 ```bash
 trader-behavior-market-sentiment-analysis/
 │
