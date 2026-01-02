@@ -69,14 +69,13 @@ The goal is to uncover patterns in profitability, risk-taking, and trading activ
 ---
 
 ## 📁 Repository Structure
-
-```bash
-trader-behavior-market-sentiment-analysis/
-│
-├── analysis.ipynb # Main analysis notebook
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-└── .gitignore # Ignored files (datasets, caches)
+  ```bash
+  trader-behavior-market-sentiment-analysis/
+  │
+  ├── analysis.ipynb # Main analysis notebook
+  ├── README.md # Project documentation
+  ├── requirements.txt # Python dependencies
+  └── .gitignore # Ignored files (datasets, caches)
 
 ---
 
